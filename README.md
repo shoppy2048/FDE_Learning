@@ -4,6 +4,8 @@
 
 本项目为非官方原创模拟练习，与腾讯云无隶属或背书关系，不含官方考试题库，不保证命中率、通过率或与真实考试难度一致。产品名称及商标归各自权利人所有。
 
+配套站点：[FDE 指南](https://fdezhinan.com/?utm_source=github&utm_medium=readme&utm_campaign=fde-learning) 汇总了 FDE 认证体系对比、考纲拆解、报名流程与职业向内容，可与本项目题库配合查阅。该站同为独立第三方项目，与认证机构无隶属关系。
+
 ## 本地运行
 
 需要 Python 3.9 或更高版本，运行时只用标准库；前端使用原生 JavaScript/CSS，无需账号、云密钥或模型 API。
